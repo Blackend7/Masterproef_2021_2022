@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "FDSD0420WH150MP3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "FDSD0420WH150MP3")
+        (spec "default")
+    )
+)

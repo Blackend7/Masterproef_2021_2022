@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PMEG2010AEB_115'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nexperia", "PMEG2010AEB,115" (!) = "", "SOD1608X65N", "Small Outline Diode", "771-PMEG2010AEBT/R", "https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG2010AEB115?qs=LOCUfHb8d9tfCFqCI7Df0Q%3D%3D", "PMEG2010AEB,115", "https://www.arrow.com/en/products/pmeg2010aeb115/nexperia", "Diode Schottky 20V 1A ,PMEG2010AEB NXP PMEG2010AEB,115 Schottky Diode, 1A, 20V, 2-Pin I-IGIA", "http://www.nxp.com/documents/data_sheet/PMEG2010AEB.pdf", "0.65 mm"
+END_PART
+
+END.

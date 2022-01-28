@@ -1,0 +1,17 @@
+.PMEG2010AEB_115 :1 ;Diode Schottky 20V 1A ,PMEG2010AEB NXP PMEG2010AEB,115 Schottky Diode, 1A, 20V, 2-Pin I-IGIA
+SOD1608X65N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN PMEG2010AEB_115
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PMEG2010AEB,115)
+~!Mouser Part Number (771-PMEG2010AEBT/R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG2010AEB115?qs=LOCUfHb8d9tfCFqCI7Df0Q%3D%3D)
+~!Arrow Part Number (PMEG2010AEB,115)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/pmeg2010aeb115/nexperia)
+~!Link Datasheet (http://www.nxp.com/documents/data_sheet/PMEG2010AEB.pdf)
+~!Height (0.65mm)
+PMEG2010AEB_115
+1.1!U 2.1!U 

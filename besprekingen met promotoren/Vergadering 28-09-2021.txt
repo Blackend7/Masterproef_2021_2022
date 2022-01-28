@@ -1,0 +1,24 @@
+TDOA
+chirp en verschilelnde chirp patronen voor meerdere modules
+TDOA is goed binnen sensoren
+fmax 40 kHz Voorbeeld
+
+signaal generatie blokgolf 
+2 timers => timer voor aan te passen
+	 => timer voor de aanpassing in het signaal toe te staan
+OF een DAC gebruiken 
+
+Lineair variatie voorzien Zodanig dat pulse compressie er is en crosscorrelatie makkelijker wordt
+
+WAT MISSCHIEN NOG TE ONDERZOEKEN WELKE METHODE WERKT GOED DOOR MIDDEL VAN ONDERZOEK EN DIT EEN AANHALEN BIJ BEGELEIDERS
+
+Verschil tussen TDOA en TOA
+We gaan metingen uitvoeren en de accuraatheid vergelijken of de effort het waard is en zien of we er iets meezijn.
+Voor TOA zal er via de DAQ een synchronisatie of toch het start tijdstip gekend zijn.
+
+
+meting va directionaliteit
+
+arm-gebaseerd
+
+MEer focus op de algoritmes

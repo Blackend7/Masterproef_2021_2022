@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PMEG2010AEB,115
+PartCategory=Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=1.1
+Released=2016-06-03 07:13:02
+Downloaded=2021-10-01 07:37:58
+3D=N

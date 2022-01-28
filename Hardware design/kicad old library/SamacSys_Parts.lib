@@ -1,0 +1,147 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TPS61046YFFT
+#/288462/230814/2.49/6/3/Integrated Circuit
+DEF TPS61046YFFT IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TPS61046YFFT" 950 200 50 H V L CNN
+F2 "BGA6C40P2X3_79X119X62" 950 100 50 H I L CNN
+F3 "http://www.mouser.com/ds/2/405/tps61046-558321.pdf" 950 0 50 H I L CNN
+F4 "Voltage Regulators - Switching Regulators 28V Output Volt Boost Converter" 950 -100 50 H I L CNN "Description"
+F5 "0.625" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS61046YFFT" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS61046YFFT" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFT?qs=MiqG6Kq1qKNtt1TJNfikmQ%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TPS61046YFFT" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tps61046yfft/texas-instruments" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VIN A1 0 0 200 R 50 50 0 0 P
+X GND A2 0 -100 200 R 50 50 0 0 P
+X FB B1 0 -200 200 R 50 50 0 0 P
+X SW B2 1100 0 200 L 50 50 0 0 P
+X EN C1 1100 -100 200 L 50 50 0 0 P
+X VOUT C2 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model TPS61046YFFR
+#/267529/230814/2.49/6/3/Integrated Circuit
+DEF TPS61046YFFR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TPS61046YFFR" 950 200 50 H V L CNN
+F2 "BGA6C40P2X3_79X119X62" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps61046" 950 0 50 H I L CNN
+F4 "28-V Output Voltage Boost Converter in WCSP Package" 950 -100 50 H I L CNN "Description"
+F5 "0.625" 950 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "TPS61046YFFR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-TPS61046YFFR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFR?qs=MiqG6Kq1qKNwq3TLqYBDaw%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "TPS61046YFFR" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/tps61046yffr/texas-instruments" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VIN A1 0 0 200 R 50 50 0 0 P
+X GND A2 0 -100 200 R 50 50 0 0 P
+X FB B1 0 -200 200 R 50 50 0 0 P
+X SW B2 1100 0 200 L 50 50 0 0 P
+X EN C1 1100 -100 200 L 50 50 0 0 P
+X VOUT C2 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model LM48580TL_NOPB
+#/726042/230814/2.49/12/3/Integrated Circuit
+DEF LM48580TL_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LM48580TL_NOPB" 1050 200 50 H V L CNN
+F2 "BGA12C50P3X4_146X196X68" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lm48580" 1050 0 50 H I L CNN
+F4 "High Efficiency Class H, High Voltage, Haptic Piezo Actuator / Ceramic Speaker Driver" 1050 -100 50 H I L CNN "Description"
+F5 "0.675" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LM48580TL/NOPB" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "926-LM48580TL/NOPB" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM48580TL-NOPB?qs=QbsRYf82W3E88NVPimmYIA%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LM48580TL/NOPB" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lm48580tlnopb/texas-instruments" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT+ A1 0 0 200 R 50 50 0 0 P
+X SGND A2 0 -100 200 R 50 50 0 0 P
+X IN+ A3 0 -200 200 R 50 50 0 0 P
+X OUT- B1 0 -300 200 R 50 50 0 0 P
+X GAIN B2 0 -400 200 R 50 50 0 0 P
+X IN- B3 0 -500 200 R 50 50 0 0 P
+X VAMP C1 1200 0 200 L 50 50 0 0 P
+X ~SHDN C2 1200 -100 200 L 50 50 0 0 P
+X VDD C3 1200 -200 200 L 50 50 0 0 P
+X VBST D1 1200 -300 200 L 50 50 0 0 P
+X SW D2 1200 -400 200 L 50 50 0 0 P
+X PGND D3 1200 -500 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model LM48580TLX_NOPB
+#/231748/230814/2.49/12/3/Integrated Circuit
+DEF LM48580TLX_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LM48580TLX_NOPB" 1050 200 50 H V L CNN
+F2 "BGA12C50P3X4_146X196X68" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/lm48580.pdf" 1050 0 50 H I L CNN
+F4 "High Efficiency Class H, High Voltage, Haptic Piezo Actuator / Ceramic Speaker Driver" 1050 -100 50 H I L CNN "Description"
+F5 "0.675" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LM48580TLX/NOPB" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "926-LM48580TLX/NOPB" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM48580TLX-NOPB?qs=QbsRYf82W3HyjJKZv6JyHg%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "LM48580TLX/NOPB" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/lm48580tlxnopb/texas-instruments?region=nac" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X OUT+ A1 0 0 200 R 50 50 0 0 O
+X SGND A2 0 -100 200 R 50 50 0 0 W
+X IN+ A3 0 -200 200 R 50 50 0 0 I
+X OUT- B1 0 -300 200 R 50 50 0 0 O
+X GAIN B2 0 -400 200 R 50 50 0 0 I
+X IN- B3 0 -500 200 R 50 50 0 0 I
+X VAMP C1 1200 0 200 L 50 50 0 0 P
+X ~SHDN C2 1200 -100 200 L 50 50 0 0 P
+X VDD C3 1200 -200 200 L 50 50 0 0 W
+X VBST D1 1200 -300 200 L 50 50 0 0 P
+X SW D2 1200 -400 200 L 50 50 0 0 P
+X PGND D3 1200 -500 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

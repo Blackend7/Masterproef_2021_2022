@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS61046YFFT
+D Voltage Regulators - Switching Regulators 28V Output Volt Boost Converter
+K
+F http://www.mouser.com/ds/2/405/tps61046-558321.pdf
+$ENDCMP
+#
+$CMP TPS61046YFFR
+D 28-V Output Voltage Boost Converter in WCSP Package
+K
+F http://www.ti.com/lit/gpn/tps61046
+$ENDCMP
+#
+$CMP LM48580TL_NOPB
+D High Efficiency Class H, High Voltage, Haptic Piezo Actuator / Ceramic Speaker Driver
+K
+F http://www.ti.com/lit/gpn/lm48580
+$ENDCMP
+#
+$CMP LM48580TLX_NOPB
+D High Efficiency Class H, High Voltage, Haptic Piezo Actuator / Ceramic Speaker Driver
+K
+F http://www.ti.com/lit/ds/symlink/lm48580.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+### Module positions - created on 03/09/2021 15:52:33 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                     PosX       PosY       Rot  Side
+C1        1µF                C_0201_0603Metric      -134.2746   -66.8528  180.0000  bottom
+C2        2,2µF              C_0201_0603Metric      -134.9121   -61.9252  180.0000  bottom
+C3        10µF               C_0805_2012Metric      -136.3066   -67.7746  270.0000  bottom
+C4        1µF                C_0201_0603Metric      -134.2568   -67.4954  180.0000  bottom
+IC1       TPS61046YFFR        BGA6C40P2X3_79X119X62  -135.8240   -64.4144    0.0000  bottom
+L1        FDSD0420-H-100M=P3  FDSD0420WH150MP3       -138.8466   -63.0657  180.0000  bottom
+R1        536k                R_0603_1608Metric      -134.6454   -63.8225  270.0000  bottom
+R2        30k                 R_0603_1608Metric      -133.8758   -65.7809  180.0000  bottom
+X1        Adap_UT_P2019       Adap_UT_P2019          -129.3774   -63.0961  270.0000  bottom
+## End

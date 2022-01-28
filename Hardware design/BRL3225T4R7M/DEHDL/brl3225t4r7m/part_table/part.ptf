@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BRL3225T4R7M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TAIYO YUDEN", "BRL3225T4R7M" (!) = "", "INDC3225X170N", "Inductors Chip", "963-BRL3225T4R7M", "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/BRL3225T4R7M?qs=I6KAKw0tg2xOihqDOBdh7w%3D%3D", "BRL3225T4R7M", "https://www.arrow.com/en/products/brl3225t4r7m/taiyo-yuden", "TAIYO YUDEN - BRL3225T4R7M - WIREWOUND INDUCTOR 4.7UH 1.3A 20% 120MHZ", "https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=BRL3225T4R7M%20%20&u=M", "1.7 mm"
+END_PART
+
+END.

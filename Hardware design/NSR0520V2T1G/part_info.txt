@@ -1,0 +1,9 @@
+Manufacturer=ON Semiconductor
+PartNumber=NSR0520V2T1G
+PartCategory=Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=1.3
+Released=2016-03-15 13:50:33
+Downloaded=2021-09-29 15:38:18
+3D=Y

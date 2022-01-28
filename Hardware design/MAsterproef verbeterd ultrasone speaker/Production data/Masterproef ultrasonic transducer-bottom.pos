@@ -1,0 +1,16 @@
+### Module positions - created on 10/05/21 14:27:24 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val              Package                 PosX       PosY       Rot  Side
+C1        10µF            C_0603_1608Metric   118.8720   -90.6780   90.0000  bottom
+C2        2,2µF           C_0603_1608Metric   107.4290   -88.9000    0.0000  bottom
+C3        10µF            C_0805_2012Metric   121.9200   -92.4560  270.0000  bottom
+C4        1µF             C_0603_1608Metric   120.3960   -90.6780   90.0000  bottom
+D1        SS22FA           SODFL3618X143N      109.9560   -95.1230    0.0000  bottom
+IC1       MIC2251-2YD5-TR  SOT95P280X100-5N    110.6576   -91.9780   90.0000  bottom
+L1        LQH5BPN100MT0L   LQH5BPB100MT0L      115.2906   -92.8662  270.0000  bottom
+R1        1M               R_0603_1608Metric   107.3790   -93.4720    0.0000  bottom
+R2        68k              R_0603_1608Metric   107.5050   -91.9480    0.0000  bottom
+R3        22k              R_0603_1608Metric   107.5050   -90.4240  180.0000  bottom
+## End

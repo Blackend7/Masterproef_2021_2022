@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Masterproef-ultrasonic-transmitter-rescue)(type Legacy)(uri "C:/Users/robin/OneDrive/Masterproef 2021-2022/Hardware design/Masterproef ultrasonic transmitter/Masterproef ultrasonic transmitter-rescue.lib")(options "")(descr ""))
+  (lib (name Masterproef-ultrasonic-transducer-rescue)(type Legacy)(uri "${KIPRJMOD}/Masterproef ultrasonic transducer-rescue.lib")(options "")(descr ""))
+)

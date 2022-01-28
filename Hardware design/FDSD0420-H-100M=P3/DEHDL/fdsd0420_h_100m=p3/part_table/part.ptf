@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FDSD0420_H_100M=P3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "FDSD0420-H-100M=P3" (!) = "", "FDSD0420WH150MP3", "Other", "81-FDSD0420-H-100MP3", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/FDSD0420-H-100M%3dP3?qs=KuGPmAKtFKXZ0m3Q9jeEIg%3D%3D", "FDSD0420-H-100M=P3", "https://www.arrow.com/en/products/fdsd0420-h-100mp3/murata-manufacturing", "Toko FDSD0420 Series Shielded Wire-wound SMD Inductor with a Powered Iron Core, 10 uH Wire-Wound 3.3A Idc", "https://psearch.en.murata.com/inductor/product/FDSD0420-H-100M%23.html", "2 mm"
+END_PART
+
+END.

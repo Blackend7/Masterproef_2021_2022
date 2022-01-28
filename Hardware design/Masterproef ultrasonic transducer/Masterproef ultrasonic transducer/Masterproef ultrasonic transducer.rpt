@@ -1,0 +1,930 @@
+## Footprint report - date 10/03/21 23:47:41
+## Created by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 103.361786 81.393999
+lower_right_corner 146.641854 101.731121
+$EndBOARD
+
+$MODULE "J1"
+reference "J1"
+value "Power"
+footprint "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
+attribut none
+position 118.211600 93.659200  orientation 180.00
+layer front
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  1.000000  size  0.850000  0.850000  orientation 0.00
+drill  0.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  0.850000  0.850000  orientation 0.00
+drill  0.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "JP3"
+reference "JP3"
+value "input filter"
+footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+attribut virtual
+position 118.528000 86.487000  orientation 180.00
+layer front
+$PAD "1"
+Shape CustomShape Layer front
+position -0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape CustomShape Layer front
+position  0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP3
+
+$MODULE "JP2"
+reference "JP2"
+value "input filter"
+footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+attribut virtual
+position 123.088400 84.074000  orientation 90.00
+layer front
+$PAD "1"
+Shape CustomShape Layer front
+position -0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape CustomShape Layer front
+position  0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP2
+
+$MODULE "JP1"
+reference "JP1"
+value "no filter"
+footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+attribut virtual
+position 117.943800 83.439000  orientation 0.00
+layer front
+$PAD "1"
+Shape CustomShape Layer front
+position -0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape CustomShape Layer front
+position  0.725000  0.000000  size  0.300000  0.300000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  JP1
+
+$MODULE "D2"
+reference "D2"
+value "PMEG2010AEB,115"
+footprint "SamacSys_Parts 2:SOD1608X65N"
+attribut smd
+position 110.159800 91.587600  orientation 270.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  0.808000  0.000000  size  0.500000  0.818000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -0.808000  0.000000  size  0.500000  0.818000  orientation -270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "R7"
+reference "R7"
+value "4,7"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 123.494800 86.664800  orientation 180.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE "D1"
+reference "D1"
+value "SS22FA"
+footprint "SamacSys_Parts 2:SODFL3618X143N"
+attribut smd
+position 110.210600 95.123000  orientation -0.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.550000  0.000000  size  1.120000  1.220000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.550000  0.000000  size  1.120000  1.220000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "C10"
+reference "C10"
+value "2,2µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 121.285000 85.877400  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE "J2"
+reference "J2"
+value "FC68131"
+footprint "FC68131_Farnell:CLIFF_FC68131"
+attribut none
+position 133.092200 88.726000  orientation 180.00
+layer front
+$PAD "1"
+Shape Oval Layer both
+position  0.000000  0.000000  size  1.208000  2.416000  orientation 0.00
+drill  0.700000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Oval Layer both
+position  5.000000  5.000000  size  2.416000  1.208000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  5.000000 -5.000000  size  2.416000  1.208000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "None"
+Shape Circle Layer both
+position  5.000000  0.000000  size  1.300000  1.300000  orientation 0.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "None"
+Shape Circle Layer both
+position  0.000000  5.000000  size  1.300000  1.300000  orientation 0.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "None"
+Shape Circle Layer both
+position  0.000000 -5.000000  size  1.300000  1.300000  orientation 0.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "None"
+Shape Circle Layer both
+position -2.500000 -5.000000  size  1.300000  1.300000  orientation 0.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "None"
+Shape Circle Layer both
+position -2.500000  5.000000  size  1.300000  1.300000  orientation 0.00
+drill  1.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "S1"
+reference "S1"
+value "CL-SB-13B-01T"
+footprint "SamacSys_Parts 2:CLSB13B01T"
+attribut none
+position 120.142000 85.344000  orientation 0.00
+layer back
+$PAD "MH2"
+Shape Circle Layer both
+position  4.500000  0.000000  size  0.900000  0.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MH1"
+Shape Circle Layer both
+position -3.500000  0.000000  size  0.900000  0.000000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  3.500000  2.200000  size  1.200000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -4.500000  2.200000  size  1.200000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  1.500000 -2.200000  size  1.200000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -2.500000 -2.200000  size  1.200000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S1
+
+$MODULE "L1"
+reference "L1"
+value "LQH5BPN100MT0L"
+footprint "SamacSys_Parts 2:LQH5BPB100MT0L"
+attribut smd
+position 115.290600 92.866200  orientation 270.00
+layer back
+$PAD "2"
+Shape Rect Layer back
+position  1.825000  0.000000  size  1.850000  4.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.825000  0.000000  size  1.850000  4.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L1
+
+$MODULE "IC1"
+reference "IC1"
+value "MIC2251-2YD5-TR"
+footprint "SamacSys_Parts 2:SOT95P280X100-5N"
+attribut smd
+position 110.657600 91.978000  orientation 90.00
+layer back
+$PAD "5"
+Shape Rect Layer back
+position  1.300000  0.950000  size  0.600000  1.050000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position  1.300000 -0.950000  size  0.600000  1.050000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -1.300000 -0.950000  size  0.600000  1.050000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -1.300000  0.000000  size  0.600000  1.050000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position -1.300000  0.950000  size  0.600000  1.050000  orientation -90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC1
+
+$MODULE "R3"
+reference "R3"
+value "22k"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 107.505000 90.424000  orientation 180.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE "C2"
+reference "C2"
+value "2,2µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 107.429000 88.900000  orientation 0.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C2
+
+$MODULE "TP10"
+reference "TP10"
+value "GND"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 123.698000 94.996000  orientation 0.00
+layer back
+$PAD "1"
+Shape Circle Layer back
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP10
+
+$MODULE "TP9"
+reference "TP9"
+value "GND"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 123.698000 91.440000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP9
+
+$MODULE "TP8"
+reference "TP8"
+value "SW"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 118.491000 95.250000  orientation 0.00
+layer back
+$PAD "1"
+Shape Circle Layer back
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP8
+
+$MODULE "TP7"
+reference "TP7"
+value "+15V"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 114.429540 85.242400  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP7
+
+$MODULE "TP6"
+reference "TP6"
+value "VBST"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 111.455200 90.500200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP6
+
+$MODULE "TP5"
+reference "TP5"
+value "VCC"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 123.698000 91.440000  orientation 0.00
+layer back
+$PAD "1"
+Shape Circle Layer back
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP5
+
+$MODULE "TP4"
+reference "TP4"
+value "MEMS_NEG_POLE"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 105.867200 87.579200  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP4
+
+$MODULE "TP3"
+reference "TP3"
+value "MEMS_POS_POLE"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 105.765600 83.235800  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP3
+
+$MODULE "TP2"
+reference "TP2"
+value "Enable"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 123.698000 88.900000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP2
+
+$MODULE "TP1"
+reference "TP1"
+value "Audio"
+footprint "TestPoint:TestPoint_Pad_D1.0mm"
+attribut virtual
+position 120.954800 83.413600  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer front
+position  0.000000  0.000000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  TP1
+
+$MODULE "X1"
+reference "X1"
+value "Adap_UT_P2019"
+footprint "SamacSys_Parts:Adap_UT_P2019"
+attribut none
+position 109.347000 84.709000  orientation 180.00
+layer back
+$PAD "2"
+Shape Circle Layer back
+position  2.750000 -1.750000  size  1.000000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape CustomShape Layer back
+position -2.750000  1.750000  size  0.900000  0.900000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  X1
+
+$MODULE "L2"
+reference "L2"
+value "BRL3225T4R7M"
+footprint "SamacSys_Parts 2:INDC3225X170N"
+attribut smd
+position 113.432600 93.345000  orientation 180.00
+layer front
+$PAD "2"
+Shape Rect Layer front
+position  1.350000  0.000000  size  1.400000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer front
+position -1.350000  0.000000  size  1.400000  2.700000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  L2
+
+$MODULE "IC2"
+reference "IC2"
+value "LM48580TL_NOPB"
+footprint "SamacSys_Parts:BGA12C50P3X4_146X196X68"
+attribut smd
+position 112.555020 88.572340  orientation 0.00
+layer front
+$PAD "D3"
+Shape Circle Layer front
+position  0.500000  0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D2"
+Shape Circle Layer front
+position  0.000000  0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "D1"
+Shape Circle Layer front
+position -0.500000  0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C3"
+Shape Circle Layer front
+position  0.500000  0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C2"
+Shape Circle Layer front
+position  0.000000  0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C1"
+Shape Circle Layer front
+position -0.500000  0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B3"
+Shape Circle Layer front
+position  0.500000 -0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B2"
+Shape Circle Layer front
+position  0.000000 -0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B1"
+Shape Circle Layer front
+position -0.500000 -0.250000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A3"
+Shape Circle Layer front
+position  0.500000 -0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A2"
+Shape Circle Layer front
+position  0.000000 -0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A1"
+Shape Circle Layer front
+position -0.500000 -0.750000  size  0.306000  0.306000  orientation 90.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  IC2
+
+$MODULE "R6"
+reference "R6"
+value "10"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 107.787940 83.792060  orientation 180.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R6
+
+$MODULE "R5"
+reference "R5"
+value "10k"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 107.841280 85.435440  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R5
+
+$MODULE "R4"
+reference "R4"
+value "10k"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 110.210600 84.612480  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE "R2"
+reference "R2"
+value "68k"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 107.505000 93.472000  orientation 0.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE "R1"
+reference "R1"
+value "1M"
+footprint "Resistor_SMD:R_0603_1608Metric"
+attribut smd
+position 106.617000 91.948000  orientation 0.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.825000  0.000000  size  0.800000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE "C9"
+reference "C9"
+value "1µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 115.470640 88.275160  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE "C8"
+reference "C8"
+value "1µF"
+footprint "Capacitor_SMD:C_0805_2012Metric"
+attribut smd
+position 109.743200 87.426800  orientation 0.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE "C7"
+reference "C7"
+value "1µF"
+footprint "Capacitor_SMD:C_0805_2012Metric"
+attribut smd
+position 112.019080 84.736940  orientation 270.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE "C6"
+reference "C6"
+value "1µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 115.460480 86.870540  orientation 180.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE "C5"
+reference "C5"
+value "1µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 109.367020 89.458800  orientation 180.00
+layer front
+$PAD "2"
+Shape Roundrect Layer front
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer front
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE "C4"
+reference "C4"
+value "1µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 120.396000 90.678000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE "C3"
+reference "C3"
+value "10µF"
+footprint "Capacitor_SMD:C_0805_2012Metric"
+attribut smd
+position 121.920000 92.456000  orientation 270.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.950000  0.000000  size  1.000000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C3
+
+$MODULE "C1"
+reference "C1"
+value "10µF"
+footprint "Capacitor_SMD:C_0603_1608Metric"
+attribut smd
+position 118.872000 90.678000  orientation 90.00
+layer back
+$PAD "2"
+Shape Roundrect Layer back
+position  0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Roundrect Layer back
+position -0.775000  0.000000  size  0.900000  0.950000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C1
+
+$EndDESCRIPTION

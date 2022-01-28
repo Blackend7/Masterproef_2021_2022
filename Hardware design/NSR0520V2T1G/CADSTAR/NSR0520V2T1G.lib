@@ -1,0 +1,18 @@
+.NSR0520V2T1G :1 ;Schottky Barrier Diode
+SODFL1608X70N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN NSR0520V2T1G
+~!Manufacturer_Name (ON Semiconductor)
+~!Manufacturer_Part_Number (NSR0520V2T1G)
+~!Mouser Part Number (863-NSR0520V2T1G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/NSR0520V2T1G?qs=tauDy9ytPRtpMZsrmekbHA%3D%3D)
+~!Arrow Part Number (NSR0520V2T1G)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nsr0520v2t1g/on-semiconductor)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF)
+~!Height (0.7mm)
+~!3D_Model (NSR0520V2T1G)
+NSR0520V2T1G
+1.1!U 2.1!U 

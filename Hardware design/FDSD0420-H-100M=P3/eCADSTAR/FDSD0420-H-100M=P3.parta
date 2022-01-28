@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_528840"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-02-14:01:13)
+    (utime 2020-03-16-11:01:24)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "FDSD0420-H-100M_P3")
+)
+
+
+(pinAssign "ECS_528840"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-02-14:01:13)
+    (utime 2020-03-16-11:01:24)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_528840")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "FDSD0420-H-100M_P3")
+)
+
+
+(part "FDSD0420-H-100M_P3"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-01-02-14:01:13)
+    (utime 2020-03-16-11:01:24)
+    (packageRef "FDSD0420-H-100M_P3")
+    (pinAssignRef "ECS_528840")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Toko FDSD0420 Series Shielded Wire-wound SMD Inductor with a Powered Iron Core, 10 uH Wire-Wound 3.3A Idc")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "FDSD0420-H-100M=P3")
+    (property "Mouser_Part_Number" "81-FDSD0420-H-100MP3")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/FDSD0420-H-100M%3dP3?qs=KuGPmAKtFKXZ0m3Q9jeEIg%3D%3D")
+    (property "Arrow_Part_Number" "FDSD0420-H-100M=P3")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/fdsd0420-h-100mp3/murata-manufacturing")
+    (property "Datasheet_Link" "https://psearch.en.murata.com/inductor/product/FDSD0420-H-100M%23.html")
+    (property "compAreaTopHeight" 2)
+)
+
+

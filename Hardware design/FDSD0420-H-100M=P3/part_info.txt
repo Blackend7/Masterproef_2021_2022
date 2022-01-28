@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=FDSD0420-H-100M=P3
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=7.3
+Released=2019-01-02 14:01:13
+Downloaded=2021-09-29 15:35:32
+3D=Y

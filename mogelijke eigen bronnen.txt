@@ -1,0 +1,94 @@
+R. Kaneto, Y. Nakashima, and N. Babaguchi, “Real-time user position
+estimation in indoor environments using digital watermarking for audio
+signals,” in Proc. 20th ICPR, Aug. 2010, pp. 97–100.
+
+H. Schweinzer and M. Syafrudin, “LOSNUS: An ultrasonic system enabling
+high accuracy and secure TDoA locating of numerous devices,”
+in Proc. 2010 IPIN, Sep. 2010, pp. 1–8.
+
+J. Orlosky, T. Toyama, D. Sonntag, A. Sarkany, and A. Lorincz, “Onbody
+multi-input indoor localization for dynamic emergency scenarios:
+Fusion of magnetic tracking and optical character recognition with
+mixed-reality display,” in Proc. IEEE Int. Conf. Pervasive Comput.
+Commun. Workshops, 2014, pp. 320–325.
+
+S. Van de Velde, H. Wymeersch, P. Meissner, K. Witrisal, and
+H. Steendam, “Cooperative multipath-aided indoor localization,” in
+Proc. IEEE WCNC, Apr. 2012, pp. 3107–3111.
+
+VOOR TE BEKIJKEN OF ACCELERATE nodig is
+-----------------------------------------
+F. Li et al., “A reliable and accurate indoor localization method using
+phone inertial sensors,” in Proc. ACM Conf. Ubiquitous Comput., ser.
+UbiComp’12. ACM, New York, NY, USA, 2012, pp. 421–430.
+
+C. Yang, T. Nguyen, and E. Blasch, “Mobile positioning via fusion
+of mixed signals of opportunity,” IEEE Aerosp. Electron. Syst. Mag.,
+vol. 29, no. 4, pp. 34–46, Apr. 2014.
+
+
+Filter technieken
+------------------
+
+B. D. Anderson and J. B. Moore, Optimal Filtering. NewYork,NY,
+USA: Courier Dover, 2012.
+
+S. J. Julier and J. K. Uhlmann, “A new extension of the Kalman filter
+to nonlinear systems,” in Proc. Int. Symp. Aerospace/Defense Sensing,
+Simulations Controls, vol. 3, no. 26, 1997.
+
+I. Arasaratnam, S. Haykin, and R. J. Elliot, “Discrete-time nonlinear
+filtering algorithms using Gauss–Hermite quadrature,” Proc. IEEE,
+vol. 95, no. 5, pp. 953–977, 2007.
+
+I. Arasaratnam and S. Haykin, “Cubature Kalman Filters,” IEEE Trans.
+Autom. Control, vol. 54, no. 6, pp. 1254–1269, Jun. 2009.
+
+P. Closas, C. Fernandez-Prades, and J. Vila-Valls, “Multiple quadrature
+Kalman filtering,” IEEE Trans. Signal Process., vol. 60, no. 12,
+pp. 6125–6137, Dec. 2012.
+
+N. J. Gordon, D. J. Salmond, and A. F. M. Smith, “Novel approach
+to nonlinear/non-Gaussian Bayesian state estimation,” Proc. Inst. Elect.
+Eng., -F, vol. 140, no. 2, pp. 107–113, 1993.
+
+J. Hightower and G. Borriello, “Particle filters for location estimation
+in ubiquitous computing: A case study,” in UbiComp 2004: Ubiquitous
+Computing. New York, NY, USA: Springer, 2004, pp. 88–106.
+
+D. Madigan et al., “Bayesian indoor positioning systems,” in
+INFOCOM, vol. 2, 2005, pp. 1217–1227.
+
+C.-T. Huang, C.-H. Wu, Y.-N. Yao-Nan Lee, and J.-T. Chen, “A
+novel indoor RSS-based position location algorithm using factor
+graphs,” IEEE Trans. Wireless Commun., vol. 8, no. 6, pp. 3050–3058,
+Jun. 2009.
+
+M. Brunato and R. Battiti, “Statistical learning theory for location fingerprinting
+in wireless LANs,” Comput. Netw., vol. 47, no. 6, pp. 825–845,
+Apr. 2005.
+
+C. Nerguizian, C. Despins, and S. Affes, “Geolocation in mines with an
+impulse response fingerprinting technique and neural networks,” IEEE
+Trans. Wireless Commun., vol. 5, no. 3, pp. 603–611, Mar. 2006.
+
+M. Montemerlo, S. Thrun, D. Koller, and B. Wegbreit, “FastSLAM
+2.0: An improved particle filtering algorithm for simultaneous localization
+and mapping that provably converges,” in Proc. IJCAI, 2003,
+pp. 1151–1156.
+
+J. Mullane, B.-N. Vo, M. Adams, and B.-T. Vo, “A random-finite-set
+approach to Bayesian SLAM,” IEEE Trans. Robot., vol. 27, no. 2,
+pp. 268–282, Apr. 2011.
+
+
+
+
+
+
+
+
+Info ander topic
+----------------
+M. Chli, “Applying information theory to efficient SLAM,” Ph.D. dissertation,
+Imperial College London, London, U.K., 2009.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NSR0520V2T1G
+D Schottky Barrier Diode
+K
+F http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF
+$ENDCMP
+#
+#End Doc Library

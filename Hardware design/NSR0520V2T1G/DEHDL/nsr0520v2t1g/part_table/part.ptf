@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NSR0520V2T1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ON Semiconductor", "NSR0520V2T1G" (!) = "", "SODFL1608X70N", "Small Outline Diode Flat Lead", "863-NSR0520V2T1G", "https://www.mouser.co.uk/ProductDetail/onsemi/NSR0520V2T1G?qs=tauDy9ytPRtpMZsrmekbHA%3D%3D", "NSR0520V2T1G", "https://www.arrow.com/en/products/nsr0520v2t1g/on-semiconductor", "Schottky Barrier Diode", "http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF", "0.7 mm"
+END_PART
+
+END.

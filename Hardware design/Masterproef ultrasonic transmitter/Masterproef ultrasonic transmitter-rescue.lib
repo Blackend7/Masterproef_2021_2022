@@ -1,0 +1,145 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Adap_UT_P2019-SamacSys_Parts
+#
+DEF Adap_UT_P2019-SamacSys_Parts X 0 40 Y Y 1 F N
+F0 "X" 0 -300 50 H V C CNN
+F1 "Adap_UT_P2019-SamacSys_Parts" 0 -300 50 H V C CNN
+F2 "" 0 -300 50 H I C CNN
+F3 "" 0 -300 50 H I C CNN
+DRAW
+A 400 0 180 1463 -1463 0 1 0 N 250 100 250 -100
+A 500 0 212 1350 -1350 0 1 0 N 350 150 350 -150
+A 650 0 283 1350 -1350 0 1 0 N 450 200 450 -200
+S -100 150 50 -150 0 1 0 N
+P 2 0 1 0 50 -150 150 -200 N
+P 2 0 1 0 150 200 50 150 N
+P 2 0 1 0 150 200 150 -200 N
+X Pos_pole 1 -200 50 100 R 50 50 1 1 I
+X Neg_pole 2 -200 -50 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# BRL3225T4R7M-SamacSys_Parts
+#
+DEF BRL3225T4R7M-SamacSys_Parts L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "BRL3225T4R7M-SamacSys_Parts" 650 150 50 H V L CNN
+F2 "INDC3225X170N" 650 50 50 H I L CNN
+F3 "https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=BRL3225T4R7M%20%20&u=M" 650 -50 50 H I L CNN
+F4 "TAIYO YUDEN - BRL3225T4R7M - WIREWOUND INDUCTOR 4.7UH 1.3A 20% 120MHZ" 650 -150 50 H I L CNN "Description"
+F5 "1.7" 650 -250 50 H I L CNN "Height"
+F6 "963-BRL3225T4R7M" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Taiyo-Yuden/BRL3225T4R7M?qs=I6KAKw0tg2xOihqDOBdh7w%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TAIYO YUDEN" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "BRL3225T4R7M" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# FDSD0420-H-100M=P3-SamacSys_Parts
+#
+DEF FDSD0420-H-100M=P3-SamacSys_Parts L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "FDSD0420-H-100M=P3-SamacSys_Parts" 650 150 50 H V L CNN
+F2 "FDSD0420WH150MP3" 650 50 50 H I L CNN
+F3 "https://psearch.en.murata.com/inductor/product/FDSD0420-H-100M%23.html" 650 -50 50 H I L CNN
+F4 "Toko FDSD0420 Series Shielded Wire-wound SMD Inductor with a Powered Iron Core, 10 uH Wire-Wound 3.3A Idc" 650 -150 50 H I L CNN "Description"
+F5 "2" 650 -250 50 H I L CNN "Height"
+F6 "81-FDSD0420-H-100MP3" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/FDSD0420-H-100M%3dP3?qs=KuGPmAKtFKXZ0m3Q9jeEIg%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "FDSD0420-H-100M=P3" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# LM48580TL_NOPB-SamacSys_Parts
+#
+DEF LM48580TL_NOPB-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LM48580TL_NOPB-SamacSys_Parts" 1050 200 50 H V L CNN
+F2 "BGA12C50P3X4_146X196X68" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lm48580" 1050 0 50 H I L CNN
+F4 "High Efficiency Class H, High Voltage, Haptic Piezo Actuator / Ceramic Speaker Driver" 1050 -100 50 H I L CNN "Description"
+F5 "0.675" 1050 -200 50 H I L CNN "Height"
+F6 "926-LM48580TL/NOPB" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM48580TL-NOPB?qs=QbsRYf82W3E88NVPimmYIA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM48580TL/NOPB" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+X OUT+ A1 0 0 200 R 50 50 0 0 P
+X SGND A2 0 -100 200 R 50 50 0 0 P
+X IN+ A3 0 -200 200 R 50 50 0 0 P
+X OUT- B1 0 -300 200 R 50 50 0 0 P
+X GAIN B2 0 -400 200 R 50 50 0 0 P
+X IN- B3 0 -500 200 R 50 50 0 0 P
+X VAMP C1 1200 0 200 L 50 50 0 0 P
+X ~SHDN C2 1200 -100 200 L 50 50 0 0 P
+X VDD C3 1200 -200 200 L 50 50 0 0 P
+X VBST D1 1200 -300 200 L 50 50 0 0 P
+X SW D2 1200 -400 200 L 50 50 0 0 P
+X PGND D3 1200 -500 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# NSR0520V2T1G-SamacSys_Parts
+#
+DEF NSR0520V2T1G-SamacSys_Parts D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "NSR0520V2T1G-SamacSys_Parts" 450 100 50 H V L CNN
+F2 "SODFL1608X70N" 450 0 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/NSR0520V2T1-D.PDF" 450 -100 50 H I L CNN
+F4 "Schottky Barrier Diode" 450 -200 50 H I L CNN "Description"
+F5 "0.7" 450 -300 50 H I L CNN "Height"
+F6 "863-NSR0520V2T1G" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/NSR0520V2T1G?qs=tauDy9ytPRtpMZsrmekbHA%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "ON Semiconductor" 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "NSR0520V2T1G" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 100 200 -100 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TPS61046YFFR-SamacSys_Parts
+#
+DEF TPS61046YFFR-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TPS61046YFFR-SamacSys_Parts" 950 200 50 H V L CNN
+F2 "BGA6C40P2X3_79X119X62" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps61046" 950 0 50 H I L CNN
+F4 "28-V Output Voltage Boost Converter in WCSP Package" 950 -100 50 H I L CNN "Description"
+F5 "0.625" 950 -200 50 H I L CNN "Height"
+F6 "595-TPS61046YFFR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFR?qs=MiqG6Kq1qKNwq3TLqYBDaw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS61046YFFR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+X VIN A1 0 0 200 R 50 50 0 0 P
+X GND A2 0 -100 200 R 50 50 0 0 P
+X FB B1 0 -200 200 R 50 50 0 0 P
+X SW B2 1100 0 200 L 50 50 0 0 P
+X EN C1 1100 -100 200 L 50 50 0 0 P
+X VOUT C2 1100 -200 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Masterproef-ultrasonic-transmitter-rescue)(type Legacy)(uri "${KIPRJMOD}/Masterproef ultrasonic transmitter-rescue.lib")(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.lib)(options "")(descr ""))
+)

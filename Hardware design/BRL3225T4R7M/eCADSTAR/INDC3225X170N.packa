@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BRL3225T4R7M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-06-16:11:19)
+    (mountForm default
+        (footprintRef "INDC3225X170N")
+        (spec "System")
+    )
+)

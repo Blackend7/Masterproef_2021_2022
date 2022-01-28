@@ -1,0 +1,33 @@
+Id;Designator;Behuizing;Hoeveelheid;Orientatie;Leverancier; url
+1;J1;PinHeader_1x02_P1.00mm_Vertical;1;Power;/;/
+2;JP3,JP2;SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm;2;input filter;/;/
+3;JP1;SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm;1;no filter;/;/
+4;D2;SOD1608X65N;1;PMEG2010AEB,115;Digikey;https://www.digikey.be/product-detail/nl/nexperia-usa-inc/PMEG2010AEBF/1727-8539-1-ND/10061276
+5;R7;R_0603_1608Metric;1;4,7;Digikey;https://www.digikey.be/product-detail/en/stackpole-electronics-inc/RNCP0603FTD4R70/RNCP0603FTD4R70CT-ND/2240412
+6;D1;SODFL3618X143N;1;SS22FA;Digikey;https://www.digikey.be/product-detail/nl/onsemi/SS22FA/SS22FACT-ND/5892135
+7;C10,C2;C_0603_1608Metric;2;2,2µF;Digikey;https://www.digikey.be/product-detail/en/taiyo-yuden/TMK107ABJ225KA-T/587-2909-1-ND/2649029
+8;J2;CLIFF_FC68131;1;FC68131;Farnell;https://be.farnell.com/cliff-electronic-components/fc68131/stereo-jack-3-5mm-3pos-pcb/dp/2518188?ost=cliff_fc68131&cfm=true
+9;S1;CLSB13B01T;1;CL-SB-13B-01T;Digikey;https://www.digikey.be/product-detail/nl/nidec-copal-electronics/CL-SB-13B-01T/563-1330-1-ND/3507866
+10;L1;LQH5BPB100MT0L;1;LQH5BPN100MT0L;Digikey;https://www.digikey.be/product-detail/nl/murata-electronics/LQH5BPN100MT0L/490-7776-1-ND/4357972
+11;IC1;SOT95P280X100-5N;1;MIC2251-2YD5-TR;Digikey;https://www.digikey.be/product-detail/nl/microchip-technology/MIC2251-2YD5-TR/576-3993-1-ND/2797420
+12;R3;R_0603_1608Metric;1;22k;Digikey;https://www.digikey.be/product-detail/en/yageo/RC0603FR-0722KL/311-22-0KHRCT-ND/730003
+13;TP10,TP9;TestPoint_Pad_D1.0mm;2;GND;/;/
+14;TP8;TestPoint_Pad_D1.0mm;1;SW;/;/
+15;TP7;TestPoint_Pad_D1.0mm;1;+15V;/;/
+16;TP6;TestPoint_Pad_D1.0mm;1;VBST;/;/
+17;TP5;TestPoint_Pad_D1.0mm;1;VCC;/;/
+18;TP4;TestPoint_Pad_D1.0mm;1;MEMS_NEG_POLE;/;/
+19;TP3;TestPoint_Pad_D1.0mm;1;MEMS_POS_POLE;/;/
+20;TP2;TestPoint_Pad_D1.0mm;1;Enable;/;/
+21;TP1;TestPoint_Pad_D1.0mm;1;Audio;/;/
+22;X1;Adap_UT_P2019;1;Adap_UT_P2019;Digikey;https://www.digikey.be/product-detail/en/usound-gmbh/UT-P2019/2000-UT-P2019-ND/12658981
+23;L2;INDC3225X170N;1;BRL3225T4R7M;Digikey;https://www.digikey.be/product-detail/en/taiyo-yuden/BRL3225T4R7M/587-2166-1-ND/2002864
+24;IC2;BGA12C50P3X4_146X196X68;1;LM48580TL_NOPB;Digikey;https://www.digikey.be/product-detail/en/texas-instruments/LM48580TLX-NOPB/LM48580TLX-NOPBCT-ND/2346535
+25;R6;R_0603_1608Metric;1;10;Digikey;https://www.digikey.be/product-detail/en/stackpole-electronics-inc/RNCF0603AKT10R0/RNCF0603AKT10R0CT-ND/4928393
+26;R5,R4;R_0603_1608Metric;2;10k;Digikey;https://www.digikey.be/product-detail/en/stackpole-electronics-inc/RNCP0603FTD10K0/RNCP0603FTD10K0CT-ND/2240478
+27;R2;R_0603_1608Metric;1;68k;Digikey;https://www.digikey.be/product-detail/en/yageo/RT0603FRE0768KL/YAG5967CT-ND/9370997
+28;R1;R_0603_1608Metric;1;1M;Digikey;https://www.digikey.be/product-detail/en/koa-speer-electronics-inc/RN73H1JTTD1004B25/2019-RN73H1JTTD1004B25CT-ND/10707052
+29;C9,C6,C5,C4;C_0603_1608Metric;4;1µF;Digikey;https://www.digikey.be/product-detail/en/taiyo-yuden/TMK107BJ105KA8T/587-TMK107BJ105KA8TTR-ND/14311221
+30;C8,C7;C_0805_2012Metric;2;1µF;Digikey;https://www.digikey.be/product-detail/en/taiyo-yuden/TMK212B7105KG-T/587-1281-1-ND/931058
+31;C3;C_0805_2012Metric;1;10µF;Digikey;https://www.digikey.be/product-detail/en/samsung-electro-mechanics/CL21A106KAYNNNG/1276-6454-1-ND/5958082
+32;C1;C_0603_1608Metric;1;10µF;Digikey;https://www.digikey.be/product-detail/en/taiyo-yuden/TMK107BJ105KA8T/587-TMK107BJ105KA8TTR-ND/14311221

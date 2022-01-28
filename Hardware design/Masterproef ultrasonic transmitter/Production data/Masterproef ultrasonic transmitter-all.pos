@@ -1,0 +1,25 @@
+### Module positions - created on 03/09/2021 16:00:59 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                 Package                       PosX       PosY       Rot  Side
+C1        1µF                C_0201_0603Metric        -134.2746   -66.8528  180.0000  bottom
+C2        2,2µF              C_0201_0603Metric        -134.9121   -61.9252  180.0000  bottom
+C3        10µF               C_0805_2012Metric        -136.3066   -67.7746  270.0000  bottom
+C4        1µF                C_0201_0603Metric        -134.2568   -67.4954  180.0000  bottom
+IC1       TPS61046YFFR        BGA6C40P2X3_79X119X62    -135.8240   -64.4144    0.0000  bottom
+L1        FDSD0420-H-100M=P3  FDSD0420WH150MP3         -138.8466   -63.0657  180.0000  bottom
+R1        536k                R_0603_1608Metric        -134.6454   -63.8225  270.0000  bottom
+R2        30k                 R_0603_1608Metric        -133.8758   -65.7809  180.0000  bottom
+X1        Adap_UT_P2019       Adap_UT_P2019            -129.3774   -63.0961  270.0000  bottom
+C5        1µF                C_0603_1608Metric         130.1495   -64.4169  180.0000  top
+C6        1µF                C_0201_0603Metric         134.7368   -62.0725  180.0000  top
+C7        10µF               C_0805_2012Metric         132.4610   -60.2617  270.0000  top
+C8        10µF               C_0805_2012Metric         129.5042   -62.6161    0.0000  top
+C9        1µF                C_0201_0603Metric         135.0772   -63.3272   90.0000  top
+D1        NSR0520V2T1G        SODFL1608X70N             130.7726   -66.1035  180.0000  top
+IC2       LM48580TL_NOPB      BGA12C50P3X4_146X196X68   133.1777   -63.9002    0.0000  top
+L2        BRL3225T4R7M        INDC3225X170N             134.9515   -66.8452    0.0000  top
+R3        100k                R_0603_1608Metric         130.7948   -60.1651  270.0000  top
+R4        100k                R_0603_1608Metric         128.5266   -60.8914    0.0000  top
+## End

@@ -1,0 +1,21 @@
+Vergadering met begeleiders 26-10-2021
+--------------------------------------
+
+1) Zijn de specificaties van het systeem concreet genoeg?
+Op eerste zich ok krijg nog feedback weer
+
+
+2) Tijdverschillen opslaan in geheugen (mijn idee)
+	a) Lijkt dit een goed idee qua energie en processing kracht?
+	   Want anders moeten toch de omschakeltijden berekent worden ofwel via tweedegraads vergelijking of benadering?
+	   Ik ver onderstel dat dit meer energie zal kosten.
+	b) Ik zou in slechtste geval 3,6kB nodig
+	c) Processor in gedachten de EFM8 Sleepy Bee Family van Silicon Labs 
+	   8-bit processor , 4 timers van 16 bit, SoC met 8kB intern geheugen.
+	   OF toch beter voor een meer bit processor gaan coor met c te kunnen programmeren?
+	d) Een lopende timer kan die aangepast worden of twee afwisselend
+
+Overwegen of het niet beter is om een bitstream te voor zien en die dan gewoon uit te lezen. (Mr. Cox)
+Afweging maken tussen nauwkeurigheid energieverbruik en zo voort.
+Derde optie is timer tijdspan verandert op tempo van andere timer.(Mr. Ottoy)
+

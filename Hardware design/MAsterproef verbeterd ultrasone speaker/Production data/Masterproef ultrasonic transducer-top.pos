@@ -1,0 +1,19 @@
+### Module positions - created on 10/05/21 14:27:24 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                       PosX       PosY       Rot  Side
+C5        1µF             C_0603_1608Metric         109.3670   -89.4588  180.0000  top
+C6        1µF             C_0603_1608Metric         115.4605   -86.8705  180.0000  top
+C7        1µF             C_0805_2012Metric         112.0191   -84.7369  270.0000  top
+C8        1µF             C_0805_2012Metric         109.7432   -87.4268    0.0000  top
+C9        1µF             C_0603_1608Metric         115.4706   -88.2752    0.0000  top
+C10       2,2µF           C_0603_1608Metric         121.2850   -85.8774  270.0000  top
+D2        PMEG2010AEB,115  SOD1608X65N               110.1598   -91.5876  270.0000  top
+IC2       LM48580TL_NOPB   BGA12C50P3X4_146X196X68   112.5550   -88.5723    0.0000  top
+L2        BRL3225T4R7M     INDC3225X170N             113.4326   -93.3450  180.0000  top
+R4        10k              R_0603_1608Metric         110.2106   -84.6125  270.0000  top
+R5        10k              R_0603_1608Metric         107.8413   -85.4354    0.0000  top
+R6        10               R_0603_1608Metric         107.7879   -83.7921  180.0000  top
+R7        4,7              R_0603_1608Metric         123.4948   -86.6648  180.0000  top
+## End
